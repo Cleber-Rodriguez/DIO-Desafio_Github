@@ -1,0 +1,1 @@
+Arquivo txt apenas para exemplificar a utilização da estruturação de projetos no GitHub.
